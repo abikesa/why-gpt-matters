@@ -1,7 +1,7 @@
 # [Rankings](https://ukubona-llc.github.io/rankings/)
 
 ## A
-Why does this make me sleepless?          
+Why does this make me [sleepless](https://claude.ai/public/artifacts/e8177c2f-8bda-4288-b491-8089b5d715c6)?          
 
 > 🌊 Data        
 > ❤️ Flask      
